@@ -1,0 +1,10 @@
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\MusicBeePlugin.Images.resources
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\MusicBeePlugin.Resources.resources
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\MusicBeeHQP.vbproj.GenerateResource.cache
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\MusicBeeHQP.vbproj.CoreCompileInputs.cache
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\MusicBeeHQP.vbprojAssemblyReference.cache
+D:\Project\GitHub\MusicBee-HQPlayer\bin\Debug\mb_HQPlayer.dll.config
+D:\Project\GitHub\MusicBee-HQPlayer\bin\Debug\mb_HQPlayer.dll
+D:\Project\GitHub\MusicBee-HQPlayer\bin\Debug\mb_HQPlayer.pdb
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\mb_HQPlayer.dll
+D:\Project\GitHub\MusicBee-HQPlayer\obj\x86\Debug\mb_HQPlayer.pdb
