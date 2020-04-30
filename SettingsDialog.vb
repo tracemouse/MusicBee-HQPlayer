@@ -193,7 +193,7 @@ Partial Public Class Plugin
         End Sub
 
         Private Sub helpLabel_Click(sender As Object, e As EventArgs)
-            Dim url As String = "https://github.com/tracemouse/Musicbee-HQPlayer/"
+            Dim url As String = "www.github.com/tracemouse/Musicbee-HQPlayer/"
             Process.Start(url)
         End Sub
 
